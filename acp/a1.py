@@ -1,0 +1,5 @@
+print("About Me")
+print("Name: Areeba Nazar")
+print("Age: 18")
+print("Country: Pakistan")
+print("Hobby: Coding and learning new things")
